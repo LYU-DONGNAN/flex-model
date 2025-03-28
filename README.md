@@ -1,1 +1,1 @@
-> persion use
+> persional use for dnlv in DUT
